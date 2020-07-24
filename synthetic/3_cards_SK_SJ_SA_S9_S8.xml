@@ -1,13 +1,13 @@
 <annotation>
     <folder>synthetic</folder>
-    <filename>3_cards_C4_C3_C2W_C2_D2.jpg</filename>
+    <filename>3_cards_SK_SJ_SA_S9_S8.jpg</filename>
     <size>
         <width>1920</width>
         <height>1080</height>
         <depth>3</depth>
     </size>
     <object>
-        <name>D2</name>
+        <name>S8</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>1373</xmin>
@@ -17,7 +17,7 @@
         </bndbox>
     </object>
     <object>
-        <name>C2</name>
+        <name>S9</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>1091</xmin>
@@ -27,7 +27,7 @@
         </bndbox>
     </object>
     <object>
-        <name>C2W</name>
+        <name>SA</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>811</xmin>
@@ -37,7 +37,7 @@
         </bndbox>
     </object>
     <object>
-        <name>C3</name>
+        <name>SJ</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>546</xmin>
@@ -47,7 +47,7 @@
         </bndbox>
     </object>
     <object>
-        <name>C4</name>
+        <name>SK</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>267</xmin>

@@ -28,50 +28,50 @@ function getXml(filename, arr) {
         <name>${arr[4]}</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1293</xmin>
-            <ymin>575</ymin>
-            <xmax>1553</xmax>
-            <ymax>855</ymax>
+            <xmin>1373</xmin>
+            <ymin>581</ymin>
+            <xmax>1624</xmax>
+            <ymax>872</ymax>
         </bndbox>
     </object>
     <object>
         <name>${arr[3]}</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1029</xmin>
-            <ymin>564</ymin>
-            <xmax>1270</xmax>
-            <ymax>853</ymax>
+            <xmin>1091</xmin>
+            <ymin>580</ymin>
+            <xmax>1348</xmax>
+            <ymax>871</ymax>
         </bndbox>
     </object>
     <object>
         <name>${arr[2]}</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>771</xmin>
-            <ymin>558</ymin>
-            <xmax>997</xmax>
-            <ymax>842</ymax>
+            <xmin>811</xmin>
+            <ymin>575</ymin>
+            <xmax>1076</xmax>
+            <ymax>869</ymax>
         </bndbox>
     </object>
     <object>
         <name>${arr[1]}</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>522</xmin>
-            <ymin>552</ymin>
-            <xmax>735</xmax>
-            <ymax>828</ymax>
+            <xmin>546</xmin>
+            <ymin>575</ymin>
+            <xmax>795</xmax>
+            <ymax>867</ymax>
         </bndbox>
     </object>
     <object>
         <name>${arr[0]}</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>265</xmin>
-            <ymin>548</ymin>
-            <xmax>472</xmax>
-            <ymax>819</ymax>
+            <xmin>267</xmin>
+            <ymin>576</ymin>
+            <xmax>507</xmax>
+            <ymax>865</ymax>
         </bndbox>
     </object>
 </annotation>
