@@ -1,0 +1,19 @@
+{
+  "name": "ml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "makexml.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keyeh/vpsolver-training-dataset.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keyeh/vpsolver-training-dataset/issues"
+  },
+  "homepage": "https://github.com/keyeh/vpsolver-training-dataset#readme"
+}
