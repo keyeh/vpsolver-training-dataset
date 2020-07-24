@@ -43,12 +43,12 @@ if (app.documents.length > 0) {
 
 
 function getRenderName(i, arr) {
-    var name = i + '_'
+    var name = ''
     name += arr[i+4].name.split('.')[0] + '_'
     name += arr[i+3].name.split('.')[0] + '_'
     name += arr[i+2].name.split('.')[0] + '_'
     name += arr[i+1].name.split('.')[0] + '_'
-    name += arr[i].name.split('.')[0] + '_';
+    name += arr[i].name.split('.')[0];
     return name
 }
 
