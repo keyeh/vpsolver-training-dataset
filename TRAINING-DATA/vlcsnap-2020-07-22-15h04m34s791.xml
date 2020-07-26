@@ -10,9 +10,9 @@
         <name>C5</name>
         <bndbox>
             <xmin>399</xmin>
-            <ymin>316</ymin>
+            <ymin>315</ymin>
             <xmax>548</xmax>
-            <ymax>428</ymax>
+            <ymax>438</ymax>
         </bndbox>
     </object>
     <object>
@@ -21,7 +21,7 @@
             <xmin>220</xmin>
             <ymin>314</ymin>
             <xmax>377</xmax>
-            <ymax>429</ymax>
+            <ymax>441</ymax>
         </bndbox>
     </object>
     <object>
@@ -30,16 +30,16 @@
             <xmin>569</xmin>
             <ymin>323</ymin>
             <xmax>718</xmax>
-            <ymax>434</ymax>
+            <ymax>445</ymax>
         </bndbox>
     </object>
     <object>
         <name>DJ</name>
         <bndbox>
             <xmin>736</xmin>
-            <ymin>327</ymin>
+            <ymin>328</ymin>
             <xmax>889</xmax>
-            <ymax>432</ymax>
+            <ymax>444</ymax>
         </bndbox>
     </object>
     <object>
@@ -48,7 +48,7 @@
             <xmin>908</xmin>
             <ymin>328</ymin>
             <xmax>1060</xmax>
-            <ymax>439</ymax>
+            <ymax>450</ymax>
         </bndbox>
     </object>
 </annotation>

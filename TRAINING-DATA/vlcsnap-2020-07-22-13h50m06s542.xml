@@ -10,27 +10,27 @@
         <name>CT</name>
         <bndbox>
             <xmin>643</xmin>
-            <ymin>487</ymin>
+            <ymin>488</ymin>
             <xmax>851</xmax>
-            <ymax>612</ymax>
+            <ymax>626</ymax>
         </bndbox>
     </object>
     <object>
         <name>CK</name>
         <bndbox>
             <xmin>1081</xmin>
-            <ymin>484</ymin>
+            <ymin>483</ymin>
             <xmax>1296</xmax>
-            <ymax>608</ymax>
+            <ymax>620</ymax>
         </bndbox>
     </object>
     <object>
         <name>CQ</name>
         <bndbox>
             <xmin>1306</xmin>
-            <ymin>481</ymin>
+            <ymin>482</ymin>
             <xmax>1521</xmax>
-            <ymax>606</ymax>
+            <ymax>620</ymax>
         </bndbox>
     </object>
     <object>
@@ -39,7 +39,7 @@
             <xmin>862</xmin>
             <ymin>487</ymin>
             <xmax>1070</xmax>
-            <ymax>611</ymax>
+            <ymax>623</ymax>
         </bndbox>
     </object>
     <object>
@@ -48,7 +48,7 @@
             <xmin>418</xmin>
             <ymin>491</ymin>
             <xmax>630</xmax>
-            <ymax>616</ymax>
+            <ymax>628</ymax>
         </bndbox>
     </object>
 </annotation>

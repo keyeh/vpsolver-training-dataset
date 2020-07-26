@@ -10,9 +10,9 @@
         <name>SJ</name>
         <bndbox>
             <xmin>254</xmin>
-            <ymin>577</ymin>
+            <ymin>578</ymin>
             <xmax>510</xmax>
-            <ymax>730</ymax>
+            <ymax>746</ymax>
         </bndbox>
     </object>
     <object>
@@ -21,7 +21,7 @@
             <xmin>1373</xmin>
             <ymin>546</ymin>
             <xmax>1636</xmax>
-            <ymax>706</ymax>
+            <ymax>722</ymax>
         </bndbox>
     </object>
     <object>
@@ -30,7 +30,7 @@
             <xmin>538</xmin>
             <ymin>571</ymin>
             <xmax>795</xmax>
-            <ymax>727</ymax>
+            <ymax>743</ymax>
         </bndbox>
     </object>
     <object>
@@ -39,7 +39,7 @@
             <xmin>1095</xmin>
             <ymin>550</ymin>
             <xmax>1353</xmax>
-            <ymax>711</ymax>
+            <ymax>727</ymax>
         </bndbox>
     </object>
     <object>
@@ -48,7 +48,7 @@
             <xmin>814</xmin>
             <ymin>567</ymin>
             <xmax>1069</xmax>
-            <ymax>723</ymax>
+            <ymax>738</ymax>
         </bndbox>
     </object>
 </annotation>

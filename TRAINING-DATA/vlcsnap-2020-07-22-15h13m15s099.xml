@@ -12,16 +12,16 @@
             <xmin>387</xmin>
             <ymin>434</ymin>
             <xmax>505</xmax>
-            <ymax>518</ymax>
+            <ymax>526</ymax>
         </bndbox>
     </object>
     <object>
         <name>CK</name>
         <bndbox>
             <xmin>652</xmin>
-            <ymin>430</ymin>
+            <ymin>431</ymin>
             <xmax>763</xmax>
-            <ymax>515</ymax>
+            <ymax>525</ymax>
         </bndbox>
     </object>
     <object>
@@ -30,16 +30,16 @@
             <xmin>781</xmin>
             <ymin>426</ymin>
             <xmax>900</xmax>
-            <ymax>513</ymax>
+            <ymax>521</ymax>
         </bndbox>
     </object>
     <object>
         <name>CT</name>
         <bndbox>
             <xmin>256</xmin>
-            <ymin>432</ymin>
+            <ymin>433</ymin>
             <xmax>375</xmax>
-            <ymax>517</ymax>
+            <ymax>527</ymax>
         </bndbox>
     </object>
     <object>
@@ -48,7 +48,7 @@
             <xmin>518</xmin>
             <ymin>430</ymin>
             <xmax>637</xmax>
-            <ymax>516</ymax>
+            <ymax>524</ymax>
         </bndbox>
     </object>
 </annotation>

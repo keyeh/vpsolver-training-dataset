@@ -10,9 +10,9 @@
         <name>HJ</name>
         <bndbox>
             <xmin>487</xmin>
-            <ymin>342</ymin>
+            <ymin>343</ymin>
             <xmax>641</xmax>
-            <ymax>449</ymax>
+            <ymax>461</ymax>
         </bndbox>
     </object>
     <object>
@@ -21,34 +21,34 @@
             <xmin>659</xmin>
             <ymin>336</ymin>
             <xmax>807</xmax>
-            <ymax>441</ymax>
+            <ymax>451</ymax>
         </bndbox>
     </object>
     <object>
         <name>C6</name>
         <bndbox>
             <xmin>318</xmin>
-            <ymin>347</ymin>
+            <ymin>346</ymin>
             <xmax>471</xmax>
-            <ymax>459</ymax>
+            <ymax>469</ymax>
         </bndbox>
     </object>
     <object>
         <name>H2</name>
         <bndbox>
             <xmin>996</xmin>
-            <ymin>319</ymin>
+            <ymin>320</ymin>
             <xmax>1130</xmax>
-            <ymax>424</ymax>
+            <ymax>436</ymax>
         </bndbox>
     </object>
     <object>
         <name>SK</name>
         <bndbox>
             <xmin>826</xmin>
-            <ymin>322</ymin>
+            <ymin>323</ymin>
             <xmax>973</xmax>
-            <ymax>429</ymax>
+            <ymax>441</ymax>
         </bndbox>
     </object>
 </annotation>

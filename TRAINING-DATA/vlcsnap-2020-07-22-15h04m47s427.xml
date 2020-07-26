@@ -12,16 +12,16 @@
             <xmin>884</xmin>
             <ymin>330</ymin>
             <xmax>1023</xmax>
-            <ymax>433</ymax>
+            <ymax>443</ymax>
         </bndbox>
     </object>
     <object>
         <name>SK</name>
         <bndbox>
             <xmin>408</xmin>
-            <ymin>321</ymin>
+            <ymin>320</ymin>
             <xmax>548</xmax>
-            <ymax>425</ymax>
+            <ymax>435</ymax>
         </bndbox>
     </object>
     <object>
@@ -30,7 +30,7 @@
             <xmin>573</xmin>
             <ymin>326</ymin>
             <xmax>708</xmax>
-            <ymax>427</ymax>
+            <ymax>437</ymax>
         </bndbox>
     </object>
     <object>
@@ -39,7 +39,7 @@
             <xmin>244</xmin>
             <ymin>320</ymin>
             <xmax>389</xmax>
-            <ymax>425</ymax>
+            <ymax>435</ymax>
         </bndbox>
     </object>
     <object>
@@ -48,7 +48,7 @@
             <xmin>730</xmin>
             <ymin>330</ymin>
             <xmax>870</xmax>
-            <ymax>431</ymax>
+            <ymax>441</ymax>
         </bndbox>
     </object>
 </annotation>

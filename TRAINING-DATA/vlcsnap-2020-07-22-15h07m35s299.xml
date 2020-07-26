@@ -10,18 +10,18 @@
         <name>S6</name>
         <bndbox>
             <xmin>755</xmin>
-            <ymin>358</ymin>
+            <ymin>359</ymin>
             <xmax>901</xmax>
-            <ymax>471</ymax>
+            <ymax>483</ymax>
         </bndbox>
     </object>
     <object>
         <name>S2</name>
         <bndbox>
             <xmin>412</xmin>
-            <ymin>361</ymin>
+            <ymin>362</ymin>
             <xmax>558</xmax>
-            <ymax>472</ymax>
+            <ymax>484</ymax>
         </bndbox>
     </object>
     <object>
@@ -30,7 +30,7 @@
             <xmin>244</xmin>
             <ymin>363</ymin>
             <xmax>388</xmax>
-            <ymax>474</ymax>
+            <ymax>485</ymax>
         </bndbox>
     </object>
     <object>
@@ -39,7 +39,7 @@
             <xmin>933</xmin>
             <ymin>355</ymin>
             <xmax>1085</xmax>
-            <ymax>469</ymax>
+            <ymax>481</ymax>
         </bndbox>
     </object>
     <object>
@@ -48,7 +48,7 @@
             <xmin>581</xmin>
             <ymin>358</ymin>
             <xmax>733</xmax>
-            <ymax>472</ymax>
+            <ymax>483</ymax>
         </bndbox>
     </object>
 </annotation>

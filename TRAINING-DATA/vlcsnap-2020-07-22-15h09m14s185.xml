@@ -10,9 +10,9 @@
         <name>H3</name>
         <bndbox>
             <xmin>631</xmin>
-            <ymin>356</ymin>
+            <ymin>357</ymin>
             <xmax>769</xmax>
-            <ymax>463</ymax>
+            <ymax>475</ymax>
         </bndbox>
     </object>
     <object>
@@ -21,7 +21,7 @@
             <xmin>304</xmin>
             <ymin>350</ymin>
             <xmax>442</xmax>
-            <ymax>456</ymax>
+            <ymax>466</ymax>
         </bndbox>
     </object>
     <object>
@@ -30,7 +30,7 @@
             <xmin>141</xmin>
             <ymin>347</ymin>
             <xmax>286</xmax>
-            <ymax>451</ymax>
+            <ymax>461</ymax>
         </bndbox>
     </object>
     <object>
@@ -39,16 +39,16 @@
             <xmin>788</xmin>
             <ymin>366</ymin>
             <xmax>939</xmax>
-            <ymax>469</ymax>
+            <ymax>479</ymax>
         </bndbox>
     </object>
     <object>
         <name>HQ</name>
         <bndbox>
             <xmin>465</xmin>
-            <ymin>352</ymin>
+            <ymin>353</ymin>
             <xmax>610</xmax>
-            <ymax>461</ymax>
+            <ymax>473</ymax>
         </bndbox>
     </object>
 </annotation>

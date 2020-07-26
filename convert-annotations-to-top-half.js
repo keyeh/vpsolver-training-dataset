@@ -16,10 +16,11 @@ const output = annotations.map((anno) => {
 fs.writeFileSync(path.join(__dirname, "annotations2.json"), JSON.stringify(output));
 
 function processCords(coordinates) {
-  const newHeight = coordinates.height / 2;
+  const newHeight = coordinates.height * 0.55;
+  const newY = (coordinates.height - newHeight) / 2;
   return {
     ...coordinates,
-    y: coordinates.y - newHeight / 2,
+    y: coordinates.y - newY,
     height: newHeight,
   };
 }

@@ -8,47 +8,52 @@
     </size>
     <object>
         <name>DA</name>
+        <difficult>0</difficult>
         <bndbox>
             <xmin>1051</xmin>
             <ymin>546</ymin>
             <xmax>1319</xmax>
-            <ymax>703</ymax>
+            <ymax>718</ymax>
         </bndbox>
     </object>
     <object>
         <name>DK</name>
+        <difficult>0</difficult>
         <bndbox>
             <xmin>778</xmin>
             <ymin>541</ymin>
             <xmax>1039</xmax>
-            <ymax>696</ymax>
+            <ymax>712</ymax>
         </bndbox>
     </object>
     <object>
         <name>DT</name>
+        <difficult>0</difficult>
         <bndbox>
-            <xmin>493</xmin>
-            <ymin>535</ymin>
-            <xmax>753</xmax>
-            <ymax>692</ymax>
+            <xmin>502</xmin>
+            <ymin>542</ymin>
+            <xmax>760</xmax>
+            <ymax>708</ymax>
         </bndbox>
     </object>
     <object>
         <name>DQ</name>
+        <difficult>0</difficult>
         <bndbox>
             <xmin>226</xmin>
             <ymin>535</ymin>
             <xmax>477</xmax>
-            <ymax>690</ymax>
+            <ymax>705</ymax>
         </bndbox>
     </object>
     <object>
         <name>D8</name>
+        <difficult>0</difficult>
         <bndbox>
             <xmin>1334</xmin>
             <ymin>554</ymin>
             <xmax>1593</xmax>
-            <ymax>708</ymax>
+            <ymax>723</ymax>
         </bndbox>
     </object>
 </annotation>

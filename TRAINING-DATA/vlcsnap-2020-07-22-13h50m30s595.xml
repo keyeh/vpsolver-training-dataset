@@ -12,7 +12,7 @@
             <xmin>1042</xmin>
             <ymin>507</ymin>
             <xmax>1296</xmax>
-            <ymax>658</ymax>
+            <ymax>673</ymax>
         </bndbox>
     </object>
     <object>
@@ -21,16 +21,16 @@
             <xmin>766</xmin>
             <ymin>505</ymin>
             <xmax>1024</xmax>
-            <ymax>658</ymax>
+            <ymax>673</ymax>
         </bndbox>
     </object>
     <object>
         <name>H5</name>
         <bndbox>
             <xmin>1315</xmin>
-            <ymin>507</ymin>
+            <ymin>508</ymin>
             <xmax>1569</xmax>
-            <ymax>660</ymax>
+            <ymax>676</ymax>
         </bndbox>
     </object>
     <object>
@@ -39,16 +39,16 @@
             <xmin>485</xmin>
             <ymin>505</ymin>
             <xmax>755</xmax>
-            <ymax>658</ymax>
+            <ymax>673</ymax>
         </bndbox>
     </object>
     <object>
         <name>HQ</name>
         <bndbox>
             <xmin>217</xmin>
-            <ymin>506</ymin>
+            <ymin>507</ymin>
             <xmax>469</xmax>
-            <ymax>657</ymax>
+            <ymax>673</ymax>
         </bndbox>
     </object>
 </annotation>
