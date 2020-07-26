@@ -47,7 +47,7 @@
         </bndbox>
     </object>
     <object>
-        <name>H3</name>
+        <name>H5</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>924</xmin>
