@@ -1,5 +1,5 @@
 <annotation>
-    <folder>raw-images</folder>
+    <folder>vlcsnap-no-overlap</folder>
     <filename>vlcsnap-2020-07-22-13h52m04s381.jpg</filename>
     <size>
         <width>1920</width>
@@ -7,53 +7,53 @@
         <depth>3</depth>
     </size>
     <object>
-        <name>TD</name>
+        <name>SJ</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1375</xmin>
-            <ymin>547</ymin>
-            <xmax>1641</xmax>
-            <ymax>746</ymax>
+            <xmin>254</xmin>
+            <ymin>578</ymin>
+            <xmax>510</xmax>
+            <ymax>886</ymax>
         </bndbox>
     </object>
     <object>
-        <name>KS</name>
+        <name>DT</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1088</xmin>
-            <ymin>555</ymin>
-            <xmax>1352</xmax>
-            <ymax>752</ymax>
+            <xmin>1373</xmin>
+            <ymin>546</ymin>
+            <xmax>1636</xmax>
+            <ymax>867</ymax>
         </bndbox>
     </object>
     <object>
-        <name>QS</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>810</xmin>
-            <ymin>561</ymin>
-            <xmax>1071</xmax>
-            <ymax>750</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>TS</name>
+        <name>ST</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>538</xmin>
-            <ymin>570</ymin>
-            <xmax>792</xmax>
-            <ymax>756</ymax>
+            <ymin>571</ymin>
+            <xmax>795</xmax>
+            <ymax>885</ymax>
         </bndbox>
     </object>
     <object>
-        <name>JS</name>
+        <name>SK</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>256</xmin>
-            <ymin>575</ymin>
-            <xmax>518</xmax>
-            <ymax>762</ymax>
+            <xmin>1095</xmin>
+            <ymin>550</ymin>
+            <xmax>1353</xmax>
+            <ymax>873</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>SQ</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>814</xmin>
+            <ymin>567</ymin>
+            <xmax>1069</xmax>
+            <ymax>880</ymax>
         </bndbox>
     </object>
 </annotation>

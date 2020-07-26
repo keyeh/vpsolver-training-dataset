@@ -1,5 +1,5 @@
 <annotation>
-    <folder>raw-images</folder>
+    <folder>vlcsnap-no-overlap</folder>
     <filename>vlcsnap-2020-07-22-13h50m42s615.jpg</filename>
     <size>
         <width>1920</width>
@@ -7,53 +7,53 @@
         <depth>3</depth>
     </size>
     <object>
-        <name>KC</name>
+        <name>CQ</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1344</xmin>
-            <ymin>563</ymin>
-            <xmax>1585</xmax>
-            <ymax>699</ymax>
+            <xmin>286</xmin>
+            <ymin>537</ymin>
+            <xmax>523</xmax>
+            <ymax>821</ymax>
         </bndbox>
     </object>
     <object>
-        <name>AC</name>
+        <name>CJ</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1077</xmin>
-            <ymin>554</ymin>
-            <xmax>1321</xmax>
-            <ymax>690</ymax>
+            <xmin>546</xmin>
+            <ymin>539</ymin>
+            <xmax>795</xmax>
+            <ymax>823</ymax>
         </bndbox>
     </object>
     <object>
-        <name>6C</name>
+        <name>C6</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>815</xmin>
-            <ymin>550</ymin>
-            <xmax>1062</xmax>
-            <ymax>685</ymax>
+            <xmin>813</xmin>
+            <ymin>546</ymin>
+            <xmax>1064</xmax>
+            <ymax>829</ymax>
         </bndbox>
     </object>
     <object>
-        <name>JC</name>
+        <name>CK</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>555</xmin>
-            <ymin>547</ymin>
-            <xmax>801</xmax>
-            <ymax>687</ymax>
+            <xmin>1333</xmin>
+            <ymin>555</ymin>
+            <xmax>1601</xmax>
+            <ymax>843</ymax>
         </bndbox>
     </object>
     <object>
-        <name>QC</name>
+        <name>CA</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>287</xmin>
-            <ymin>535</ymin>
-            <xmax>530</xmax>
-            <ymax>683</ymax>
+            <xmin>1074</xmin>
+            <ymin>551</ymin>
+            <xmax>1329</xmax>
+            <ymax>839</ymax>
         </bndbox>
     </object>
 </annotation>

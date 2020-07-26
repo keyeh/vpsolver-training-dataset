@@ -1,5 +1,5 @@
 <annotation>
-    <folder>raw-images</folder>
+    <folder>vlcsnap-no-overlap</folder>
     <filename>vlcsnap-2020-07-22-13h51m56s350.jpg</filename>
     <size>
         <width>1920</width>
@@ -7,53 +7,53 @@
         <depth>3</depth>
     </size>
     <object>
-        <name>TC</name>
+        <name>CJ</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1365</xmin>
+            <xmin>1093</xmin>
+            <ymin>556</ymin>
+            <xmax>1333</xmax>
+            <ymax>859</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>CA</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>820</xmin>
+            <ymin>556</ymin>
+            <xmax>1069</xmax>
+            <ymax>854</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>H6</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>264</xmin>
             <ymin>557</ymin>
-            <xmax>1614</xmax>
-            <ymax>725</ymax>
+            <xmax>517</xmax>
+            <ymax>861</ymax>
         </bndbox>
     </object>
     <object>
-        <name>JC</name>
+        <name>CT</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1096</xmin>
-            <ymin>561</ymin>
-            <xmax>1347</xmax>
-            <ymax>724</ymax>
+            <xmin>1367</xmin>
+            <ymin>555</ymin>
+            <xmax>1626</xmax>
+            <ymax>855</ymax>
         </bndbox>
     </object>
     <object>
-        <name>AC</name>
+        <name>CK</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>821</xmin>
-            <ymin>560</ymin>
-            <xmax>1075</xmax>
-            <ymax>725</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>KC</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>543</xmin>
-            <ymin>558</ymin>
-            <xmax>808</xmax>
-            <ymax>729</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>6H</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>269</xmin>
-            <ymin>558</ymin>
-            <xmax>539</xmax>
-            <ymax>721</ymax>
+            <xmin>550</xmin>
+            <ymin>564</ymin>
+            <xmax>790</xmax>
+            <ymax>858</ymax>
         </bndbox>
     </object>
 </annotation>

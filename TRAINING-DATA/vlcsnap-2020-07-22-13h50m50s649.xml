@@ -1,5 +1,5 @@
 <annotation>
-    <folder>vlcsnap-no-overlap</folder>
+    <folder>TRAINING-DATA</folder>
     <filename>vlcsnap-2020-07-22-13h50m50s649.jpg</filename>
     <size>
         <width>1920</width>
@@ -8,52 +8,47 @@
     </size>
     <object>
         <name>DQ</name>
-        <difficult>0</difficult>
         <bndbox>
             <xmin>498</xmin>
             <ymin>637</ymin>
             <xmax>787</xmax>
-            <ymax>984</ymax>
+            <ymax>810</ymax>
         </bndbox>
     </object>
     <object>
         <name>HT</name>
-        <difficult>0</difficult>
         <bndbox>
             <xmin>1118</xmin>
-            <ymin>620</ymin>
+            <ymin>619</ymin>
             <xmax>1417</xmax>
-            <ymax>980</ymax>
+            <ymax>798</ymax>
         </bndbox>
     </object>
     <object>
         <name>HK</name>
-        <difficult>0</difficult>
         <bndbox>
             <xmin>812</xmin>
             <ymin>626</ymin>
             <xmax>1096</xmax>
-            <ymax>981</ymax>
+            <ymax>803</ymax>
         </bndbox>
     </object>
     <object>
         <name>HA</name>
-        <difficult>0</difficult>
         <bndbox>
             <xmin>1437</xmin>
             <ymin>619</ymin>
             <xmax>1745</xmax>
-            <ymax>977</ymax>
+            <ymax>797</ymax>
         </bndbox>
     </object>
     <object>
         <name>HQ</name>
-        <difficult>0</difficult>
         <bndbox>
             <xmin>195</xmin>
             <ymin>638</ymin>
             <xmax>479</xmax>
-            <ymax>988</ymax>
+            <ymax>812</ymax>
         </bndbox>
     </object>
 </annotation>
