@@ -37,7 +37,7 @@
         </bndbox>
     </object>
     <object>
-        <name>DT</name>
+        <name>D8</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>358</xmin>

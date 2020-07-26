@@ -8,6 +8,7 @@
     </size>
     <object>
         <name>D2</name>
+        <difficult>0</difficult>
         <bndbox>
             <xmin>974</xmin>
             <ymin>334</ymin>
@@ -17,6 +18,7 @@
     </object>
     <object>
         <name>C8</name>
+        <difficult>0</difficult>
         <bndbox>
             <xmin>283</xmin>
             <ymin>353</ymin>
@@ -26,6 +28,7 @@
     </object>
     <object>
         <name>HA</name>
+        <difficult>0</difficult>
         <bndbox>
             <xmin>451</xmin>
             <ymin>348</ymin>
@@ -35,6 +38,7 @@
     </object>
     <object>
         <name>S8</name>
+        <difficult>0</difficult>
         <bndbox>
             <xmin>619</xmin>
             <ymin>346</ymin>
@@ -43,7 +47,8 @@
         </bndbox>
     </object>
     <object>
-        <name>H2</name>
+        <name>H8</name>
+        <difficult>0</difficult>
         <bndbox>
             <xmin>791</xmin>
             <ymin>336</ymin>

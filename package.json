@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/keyeh/vpsolver-training-dataset/issues"
   },
-  "homepage": "https://github.com/keyeh/vpsolver-training-dataset#readme"
+  "homepage": "https://github.com/keyeh/vpsolver-training-dataset#readme",
+  "dependencies": {
+    "canvas": "^2.6.1"
+  }
 }
