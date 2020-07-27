@@ -1,5 +1,5 @@
 <annotation>
-    <folder>vlcsnap-no-overlap</folder>
+    <folder>TRAINING-DATA</folder>
     <filename>vlcsnap-00_04_59-00037.jpg</filename>
     <size>
         <width>1280</width>
@@ -37,7 +37,7 @@
         </bndbox>
     </object>
     <object>
-        <name>D5</name>
+        <name>H5</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>703</xmin>

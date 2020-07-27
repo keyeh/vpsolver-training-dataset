@@ -1,13 +1,13 @@
 <annotation>
-    <folder>ae</folder>
-    <filename>00201.jpg</filename>
+    <folder>TRAINING-DATA</folder>
+    <filename>cFvIHZIcDk-00106.jpg</filename>
     <size>
         <width>1920</width>
         <height>1080</height>
         <depth>3</depth>
     </size>
     <object>
-        <name>CA</name>
+        <name>SA</name>
         <difficult>0</difficult>
         <bndbox>
             <xmin>438</xmin>
